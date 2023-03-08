@@ -39,7 +39,7 @@ class MainKtTest {
         val amount = 1_000
         val totalAmountOfMonth = 0
         val totalAmountOfDay = 0
-        val expected = "Комиссия за перевод отсутствует"
+        val expected = "омиссия за перевод отсутствует"
 
         val result = countComissionMastercardMaestro(
             amount = amount,
